@@ -74,14 +74,15 @@ CCTV17 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u
 黑龙江卫视 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/1.m3u8
 
 地方频道,#genre#
-潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd#http://live.zscz0768.com/live/zhpd.m3u8#http://dslive.grtn.cn/czzh/sd/live.m3u8
-潮州公共,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd#http://live.zscz0768.com/live/ggpd.m3u8
+潮州综合,http://live.zscz0768.com/live/zhpd.m3u8#http://112.29.211.111/live.zscz0768.com/live/zhpd.m3u8#http://dslive.grtn.cn/czzh/sd/live.m3u8
+潮州公共,http://live.zscz0768.com/live/ggpd.m3u8#http://112.29.211.111/live.zscz0768.com/live/ggpd.m3u8
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8#http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
-汕头一套,http://itv.chaoshanren.site/gdyx.php?id=st1
-汕头二套,http://itv.chaoshanren.site/gdyx.php?id=st2
-汕头三套,http://itv.chaoshanren.site/gdyx.php?id=st3
-揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
+汕头一套,http://ye23.win/iptv/sttv.php?id=st1
+汕头二套,http://ye23.win/iptv/sttv.php?id=st2
+汕头三套,http://ye23.win/iptv/sttv.php?id=st3
+揭阳综合,http://pili-playback.liveyulin.sobeycache.com/stjy2020/zhpd.m3u8
+揭阳公共,http://pili-playback.liveyulin.sobeycache.com/stjy2020/ggpd.m3u8
 广东珠江,https://nclive.grtn.cn/zjpd/sd/live.m3u8#http://106.53.212.251/daili/gztv.php?id=zjpd#http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=79&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8#http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=79&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东公共,https://nclive.grtn.cn/ggpd/sd/live.m3u8#http://106.53.212.251/daili/gztv.php?id=ggpd#http://107.148.240.185:13164/v/gdtv.php?id=48#http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=85&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8#http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=85&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东新闻,https://nclive.grtn.cn/xwpd/sd/live.m3u8#http://106.53.212.251/daili/gztv.php?id=xwpd#http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=84&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8#http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=84&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -185,6 +186,9 @@ G+TV动画乐园,http://117.187.54.44/gz.ucdn.10086.cn/PLTV/88888888/224/3221225
 茶啊二中,http://tv.lalatzt.cn/api/huya.php?id=11213191
 
 体育频道,#genre#
+斗鱼邵氏,http://tx2play1.douyucdn.cn/live/4246519rRn8e6QwX_4000.m3u8#http://666.stop.kim/douyu.php?id=4246519#http://www.gz6hs.com/tv/douyu.php?id=4246519#http://106.53.212.251/iptv/douyu.php?id=4246519#http://kksyw.top/iptv/gn/douyu.php?id=4246519
+B站邵氏,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/666868/live_97065163_17925468.m3u8#http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+林正英鬼片,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/977640/live_22989278_9714011.m3u8#http://kumeitv.xyz/kumei/bili.php?id=70155
 CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8#http://39.134.7.247/000000001000/1000000001000018504/1.m3u8
 奥林匹克,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
