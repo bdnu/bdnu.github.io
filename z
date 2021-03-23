@@ -348,10 +348,10 @@ CCTV17,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080
 青海安多卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
 
 ◆地方◆,#genre#
-潮州综合,http://51kds.xyz/gdcz.php?id=11
-潮州公共,http://51kds.xyz/gdcz.php?id=12
 潮州综合,http://live.zscz0768.com/live/zhpd.m3u8#http://112.29.211.111/live.zscz0768.com/live/zhpd.m3u8#http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州公共,http://live.zscz0768.com/live/ggpd.m3u8#http://112.29.211.111/live.zscz0768.com/live/ggpd.m3u8
+潮州综合,http://51kds.xyz/gdcz.php?id=11
+潮州公共,http://51kds.xyz/gdcz.php?id=12
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8#http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
 汕头一套,http://ye23.win/iptv/sttv.php?id=st1
