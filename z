@@ -78,6 +78,23 @@ CCTV13,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080
 CCTV14,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-14/index.m3u8?IAS
 CCTV15,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-15/index.m3u8?IAS
 CCTV17,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-17/index.m3u8?IAS
+CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
+CCTV2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
+CCTV3,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+CCTV4,http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV6,http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+CCTV7,http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8
+CCTV8,http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
+CCTV9,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
+CCTV10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
+CCTV11,http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV12,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
+CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV14,http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
+CCTV15,http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
+CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8
 
 ◆卫视◆,#genre#
 东南卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
@@ -391,7 +408,7 @@ CCTV17,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080
 嘉佳卡通,http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8
 
 ◆电影◆,#genre#
-斗鱼邵氏,http://tx2play1.douyucdn.cn/live/4246519rfNquTeKF_4000.m3u8#http://www.gz6hs.com/tv/douyu.php?id=4246519#http://106.53.212.251/iptv/douyu.php?id=4246519#http://blanki.cf/api/douyu.php?id=4246519#http://cdn.chxjon.cn/iptv/QQ582185381/douyu.php?id=4246519
+斗鱼邵氏,http://tx2play1.douyucdn.cn/live/4246519r6IV8SY7R_4000.m3u8#http://www.gz6hs.com/tv/douyu.php?id=4246519#http://106.53.212.251/iptv/douyu.php?id=4246519#http://blanki.cf/api/douyu.php?id=4246519#http://cdn.chxjon.cn/iptv/QQ582185381/douyu.php?id=4246519
 B站邵氏,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/666868/live_97065163_17925468.m3u8#http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 林正英鬼片,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/977640/live_22989278_9714011.m3u8#http://kumeitv.xyz/kumei/bili.php?id=70155
 斗鱼电影,http://www.gz6hs.com/tv/douyu.php?id=218859
@@ -407,6 +424,7 @@ B站邵氏,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/666868/live_97065
 香港剧集,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 火影忍者,http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=hyrz
 七龙珠,http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.flv
+头文字D,http://txtest-xp2p.p2p.huya.com/src/1423782053-1423782053-6115097354266738688-2847687562-10057-A-0-1.flv
 四驱兄弟,http://cdn.chxjon.cn/iptv/QQ582185381/bilibili.php?id=10544270
 许氏三杰,http://txtest-xp2p.p2p.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.flv
 外来媳妇本地郎,http://cdn.chxjon.cn/iptv/QQ582185381/bilibili.php?id=995289#http://blanki.cf/api/bili.php?id=995289
@@ -2003,6 +2021,14 @@ CBN风尚生活,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cbnfssh
 凤凰资讯,http://playurl.elibei.com/tv/channel/fenghuang?id=1
 凤凰香港,http://playurl.elibei.com/tv/channel/fenghuang?id=3
 
+TVBS亚洲,rtmp://v3948069e.live.126.net/live/tvbsasia123456789
+中视新闻,rtmp://v3948069e.live.126.net/live/zsxw123456789
+华视新闻资讯,rtmp://v3948069e.live.126.net/live/hsxw123456789
+壹电视新闻台,rtmp://v3948069e.live.126.net/live/ydsxw123456789
+寰宇新闻,rtmp://v3948069e.live.126.net/live/hyxwt123456789
+寰宇新闻台湾台,rtmp://v3948069e.live.126.net/live/hyxw123456789
+东森新闻台,rtmp://v3948069e.live.126.net/live/dsxw123456789
+东森财经新闻台,rtmp://v3948069e.live.126.net/live/dscj123456789
 民视,https://ws.matchupstream.tuboshu.com/live/b553810a12eeb0844733c4256c3fb5f0.flv
 台视,https://ws.matchupstream.tuboshu.com/live/07c5c823382c134f972c6b0521a70814.flv
 中视,https://ws.matchupstream.tuboshu.com/live/7b13c52229e0cc6c3082ec6c4a82f563.flv
