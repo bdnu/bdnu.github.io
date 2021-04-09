@@ -2075,7 +2075,8 @@ TVBS欢乐台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84
 翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php
 无线新闻 1080P,http://61.238.6.49:8001/bysid/83
 明珠台HD,http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php
-J2 1080P,http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php
+J2,http://v3948069e.live.126.net/live/tvbj2.flv
+J2,http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php
 无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
 ViuTV 1080P,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99#http://hls.globaliptv.ml/viu99.php
 ViuTV 6HD,https://cdn.hkdtmb.com/hls/96/index.m3u8#http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
