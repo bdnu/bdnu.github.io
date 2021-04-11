@@ -458,10 +458,10 @@ CETV-3,http://223.110.241.150:6610/gitv/live1/G_CETV-3/G_CETV-3/
 CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 
 ◆地方◆,#genre#
-潮州综合,http://xmqcu6135.hosta.vip/chaozhou.php?id=11
-潮州公共,http://xmqcu6135.hosta.vip/chaozhou.php?id=12
-潮州综合,http://51kds.xyz/gdcz.php?id=11#rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd#http://dslive.grtn.cn/czzh/sd/live.m3u8
-潮州公共,http://51kds.xyz/gdcz.php?id=12#rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd
+潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd
+潮州公共,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd
+潮州综合,http://xmqcu6135.hosta.vip/chaozhou.php?id=11#http://51kds.xyz/gdcz.php?id=11#http://dslive.grtn.cn/czzh/sd/live.m3u8
+潮州公共,http://xmqcu6135.hosta.vip/chaozhou.php?id=12#http://51kds.xyz/gdcz.php?id=12
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8#http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
 汕头一套,http://ye23.win/iptv/sttv.php?id=st1
