@@ -475,8 +475,8 @@ CETV-3,http://223.110.241.150:6610/gitv/live1/G_CETV-3/G_CETV-3/
 CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 
 ◆地方◆,#genre#
-潮州综合,http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8#rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd
-潮州公共,http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd.m3u8#rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd
+潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8
+潮州公共,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd.m3u8
 潮州综合,http://xmqcu6135.hosta.vip/chaozhou.php?id=11#http://51kds.xyz/gdcz.php?id=11#http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州公共,http://xmqcu6135.hosta.vip/chaozhou.php?id=12#http://51kds.xyz/gdcz.php?id=12
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8#http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
@@ -543,7 +543,7 @@ B站邵氏,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/666868/live_97065
 斗鱼电影6,http://www.gz6hs.com/tv/douyu.php?id=252802
 斗鱼电影7,http://www.gz6hs.com/tv/douyu.php?id=4332
 斗鱼电影8,http://www.gz6hs.com/tv/douyu.php?id=925724
-斗鱼电影,http://www.gz6hs.com/tv/douyu.php?id=323876
+斗鱼电影9,http://www.gz6hs.com/tv/douyu.php?id=323876
 斗鱼动漫,http://www.gz6hs.com/tv/douyu.php?id=206858
 香港剧集,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 七龙珠,http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.flv
