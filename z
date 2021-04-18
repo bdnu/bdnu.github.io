@@ -475,8 +475,8 @@ CETV-3,http://223.110.241.150:6610/gitv/live1/G_CETV-3/G_CETV-3/
 CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 
 ◆地方◆,#genre#
-潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd
-潮州公共,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd
+潮州综合,http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8#rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd
+潮州公共,http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd.m3u8#rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd
 潮州综合,http://xmqcu6135.hosta.vip/chaozhou.php?id=11#http://51kds.xyz/gdcz.php?id=11#http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州公共,http://xmqcu6135.hosta.vip/chaozhou.php?id=12#http://51kds.xyz/gdcz.php?id=12
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8#http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
@@ -486,9 +486,9 @@ CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 汕头三套,http://ye23.win/iptv/sttv.php?id=st3
 揭阳综合,http://pili-playback.liveyulin.sobeycache.com/stjy2020/zhpd.m3u8
 揭阳公共,http://pili-playback.liveyulin.sobeycache.com/stjy2020/ggpd.m3u8
-广东珠江,https://nclive.grtn.cn/zjpd/sd/live.m3u8#http://106.53.212.251/daili/gztv.php?id=zjpd#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广东公共,https://nclive.grtn.cn/ggpd/sd/live.m3u8#http://106.53.212.251/daili/gztv.php?id=ggpd#http://107.148.240.185:13164/v/gdtv.php?id=48#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=85&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=85&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广东新闻,https://nclive.grtn.cn/xwpd/sd/live.m3u8#http://106.53.212.251/daili/gztv.php?id=xwpd#http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=84&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8#http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=84&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广东珠江,http://111.161.121.214/nclive.grtn.cn/zjpd/sd/live.m3u8#http://cdn.chxjon.cn/iptv/QQ2383132354/gdtv1.php?id=gdzj
+广东公共,http://111.161.121.214/nclive.grtn.cn/ggpd/sd/live.m3u8#http://cdn.chxjon.cn/iptv/QQ2383132354/gdtv1.php?id=gdgg
+广东新闻,http://111.161.121.214/nclive.grtn.cn/xwpd/sd/live.m3u8#http://cdn.chxjon.cn/iptv/QQ2383132354/gdtv1.php?id=gdxw
 广东体育,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 福建体育,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 北京IPTV淘BABY,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
@@ -531,7 +531,7 @@ CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 嘉佳卡通,http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8
 
 ◆电影◆,#genre#
-斗鱼邵氏,http://tx2play1.douyucdn.cn/live/4246519r6IV8SY7R_4000.m3u8#http://www.gz6hs.com/tv/douyu.php?id=4246519#http://106.53.212.251/iptv/douyu.php?id=4246519#http://blanki.cf/api/douyu.php?id=4246519#http://cdn.chxjon.cn/iptv/QQ582185381/douyu.php?id=4246519
+斗鱼邵氏,http://www.gz6hs.com/tv/douyu.php?id=4246519#http://106.53.212.251/iptv/douyu.php?id=4246519#http://blanki.cf/api/douyu.php?id=4246519#http://cdn.chxjon.cn/iptv/QQ582185381/douyu.php?id=4246519#http://tx2play1.douyucdn.cn/live/4246519r6IV8SY7R_4000.m3u8
 B站邵氏,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/666868/live_97065163_17925468.m3u8#http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 林正英鬼片,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/977640/live_22989278_9714011.m3u8#http://kumeitv.xyz/kumei/bili.php?id=70155
 斗鱼电影,http://www.gz6hs.com/tv/douyu.php?id=218859
@@ -543,6 +543,7 @@ B站邵氏,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/666868/live_97065
 斗鱼电影6,http://www.gz6hs.com/tv/douyu.php?id=252802
 斗鱼电影7,http://www.gz6hs.com/tv/douyu.php?id=4332
 斗鱼电影8,http://www.gz6hs.com/tv/douyu.php?id=925724
+斗鱼电影,http://www.gz6hs.com/tv/douyu.php?id=323876
 斗鱼动漫,http://www.gz6hs.com/tv/douyu.php?id=206858
 香港剧集,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 七龙珠,http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.flv
@@ -550,8 +551,6 @@ B站邵氏,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/666868/live_97065
 四驱兄弟,http://cdn.chxjon.cn/iptv/QQ582185381/bilibili.php?id=10544270
 许氏三杰,http://txtest-xp2p.p2p.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.flv
 外来媳妇本地郎,http://cdn.chxjon.cn/iptv/QQ582185381/bilibili.php?id=995289#http://blanki.cf/api/bili.php?id=995289
-天映频道,P2p://147.135.39.171:9906/5e7cfab00001b8d03dc7f4e34dfd4368.ts
-天映经典,P2p://147.135.39.171:9906/5e7cf98f00024e183dc38c1a5eb34315.ts
 海爷-2,https://cn-gdst-cmcc-live-01.bilivideo.com/live-bvc/211012/live_52370715_1734265.m3u8
 海爷-3,https://cn-gdst-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_2538218.m3u8
 海爷-4,https://cn-gdst-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
@@ -2218,25 +2217,6 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8#http://teslagram.com/live/channe
 凤凰资讯(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=1
 凤凰中文(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 
-民视,https://flv3948069e.live.126.net/live/6694de906a34bd283f830e43e470b6f9.flv
-台视,https://flv3948069e.live.126.net/live/f7f971b4345d149ddb6c4beac4ddb474.flv
-中视,https://flv3948069e.live.126.net/live/03ee7d2e4c26b436139cffc7a0fbeb62.flv
-华视,https://flv3948069e.live.126.net/live/ea965339a01a447497ff7d1d40277ade.flv
-TVBS·欢乐台,https://flv3948069e.live.126.net/live/cf0ba8e3aca08928c3156cf2b23dc604.flv
-TVBS·新闻台,https://flv3948069e.live.126.net/live/6af769241a2e9c8a2d8de1282efc448d.flv
-中天新闻,https://flv3948069e.live.126.net/live/5d7f299594186904ee9f2cb4334bfcbe.flv
-东森新闻,https://flv3948069e.live.126.net/live/096bbd0ebc9f9c9115985bb49b5eac75.flv
-东森超视,https://flv3948069e.live.126.net/live/22d936339fbde2c8eaa2de88e5c2861f.flv
-东森财经新闻,https://flv3948069e.live.126.net/live/fec60d923d539206a3ef498d9254e0c2.flv
-三立直播新闻,https://flv3948069e.live.126.net/live/387159ba96382d5bcdd1a935edf5dbbe.flv
-纬来体育,https://flv3948069e.live.126.net/live/8ae1a8c36eac97230ed482a44667f971.flv
-纬来育乐,https://flv3948069e.live.126.net/live/75e76254411722ef36af7d50752233d8.flv
-纬来日本,https://flv3948069e.live.126.net/live/024f9018afd65acb09e0c3e4829ca4b4.flv
-台视新闻,https://flv3948069e.live.126.net/live/77c7677fe4ebaa2d6cf38fc9ec172c26.flv
-中视新闻,https://flv3948069e.live.126.net/live/a615610203e50d0c377b7984d3180dfd.flv
-华视新闻,https://flv3948069e.live.126.net/live/56cc6f3262a5cfa21b757d03bd55f970.flv
-民视新闻,https://flv3948069e.live.126.net/live/332c4db7f14efc22690d413e8e6578df.flv
-壹新闻台,https://flv3948069e.live.126.net/live/1f7e0abb871601f8f995cf3a9b5dc870.flv
 
 TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
 凤凰香港台,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
@@ -2247,18 +2227,6 @@ Viu1TV,http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8
 有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 RTHK31,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
 
-有线新闻,https://flv3948069e.live.126.net/live/d3aead5879873bea91beee9ecea22feb.flv
-有线18台,https://flv3948069e.live.126.net/live/0597331c40aa011256e6bdf8636a7baa.flv
-有线·603,https://flv3948069e.live.126.net/live/9eb8bcc68f553e13dd3453960709cd69.flv
-NOW·新闻台,https://flv3948069e.live.126.net/live/a340f723794ec59d83b9e0914179ba70.flv
-TVB·翡翠台,https://flv3948069e.live.126.net/live/256d11542bd3be9e25a92e03fc9d6a5c.flv
-TVB·明珠台,https://flv3948069e.live.126.net/live/b098e0d0be5197d6bc215fcd37a0fde3.flv
-TVB·新闻台,https://flv3948069e.live.126.net/live/39f4f5a52521d151162eaf859817e4fb.flv
-TVB·财经台,https://flv3948069e.live.126.net/live/02efb6194db196578627358d22fd915a.flv
-VIU·综合,https://flv3948069e.live.126.net/live/65ac4cd46856559ed50ab96e5ba781f4.flv
-VIU·外语,https://flv3948069e.live.126.net/live/4f130c06732933dd987db2ae6e016a1b.flv
-开放电视,https://flv3948069e.live.126.net/live/9a5de33fc697f954f5ec9ef396379943.flv
-港视32台,https://flv3948069e.live.126.net/live/56a6e993c7e573508a1c15a68b627b9e.flv
 
 ◆浙江ip◆,#genre#
 求索动物,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
