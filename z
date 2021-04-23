@@ -459,10 +459,8 @@ CETV-3,http://223.110.241.150:6610/gitv/live1/G_CETV-3/G_CETV-3/
 CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 
 ◆地方◆,#genre#
-潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8
+潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8#http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮州公共,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd.m3u8
-潮州综合,http://xmqcu6135.hosta.vip/chaozhou.php?id=11#http://51kds.xyz/gdcz.php?id=11#http://dslive.grtn.cn/czzh/sd/live.m3u8
-潮州公共,http://xmqcu6135.hosta.vip/chaozhou.php?id=12#http://51kds.xyz/gdcz.php?id=12
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8#http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
 汕头一套,http://ye23.win/iptv/sttv.php?id=st1
@@ -699,8 +697,9 @@ NewTV精品体育,http://223.110.241.150:6610/cntv/live1/jtiyu/jtiyu
 KPOP男团,http://www.gz6hs.com/tv/douyu.php?id=455891
 男人请勿爱,http://www.gz6hs.com/tv/douyu.php?id=9322885
 女团452246124,http://www.gz6hs.com/tv/douyu.php?id=7732533
+久久女团,http://www.gz6hs.com/tv/douyu.php?id=340224
 久久钕团,http://www.gz6hs.com/tv/douyu.php?id=6852568
-青青帕青锅,http://www.gz6hs.com/tv/douyu.php?id=222286
+777帕青锅,http://www.gz6hs.com/tv/douyu.php?id=222286
 性感女团我最爱,http://www.gz6hs.com/tv/douyu.php?id=5526740
 2615381直播,http://www.gz6hs.com/tv/douyu.php?id=8921085
 美女妹妹友友,http://www.gz6hs.com/tv/douyu.php?id=225232
