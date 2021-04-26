@@ -471,8 +471,8 @@ CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 广东珠江,http://111.161.121.214/nclive.grtn.cn/zjpd/sd/live.m3u8#http://cdn.chxjon.cn/iptv/QQ2383132354/gdtv1.php?id=gdzj
 广东珠江,http://www.gz6hs.com/tv/gtv.php?id=44
 广东公共,http://111.161.121.214/nclive.grtn.cn/ggpd/sd/live.m3u8#http://cdn.chxjon.cn/iptv/QQ2383132354/gdtv1.php?id=gdgg#http://cdn.chxjon.cn/iptv/QQ2383132354/itouch.php?id=gdgg
-广东公共,http://www.gz6hs.com/tv/gtv.php?id=48
 广东公共,http://149.129.100.78/guangdong.php?id=48
+广东公共,http://www.gz6hs.com/tv/gtv.php?id=48
 广东公共,https://epg.sec.st/proxy/gdtv.php?id=48
 广东新闻,http://111.161.121.214/nclive.grtn.cn/xwpd/sd/live.m3u8#http://cdn.chxjon.cn/iptv/QQ2383132354/gdtv1.php?id=gdxw
 广东新闻,http://www.gz6hs.com/tv/gtv.php?id=45
@@ -481,7 +481,6 @@ CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 广东体育,http://116.199.5.51:8114/00000000/index.m3u8?Fsv_ctype=LIVES&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_chan_hls_se_idx=8
 广东体育,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_ctype=LIVES&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_chan_hls_se_idx=8
 福建体育,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
-山东体育,rtsp://39.136.48.134:554/PLTV/88888888/224/3221226164/CHANNEL00000057_ZUBO_mdn_1.smil?icpid=88888888&from=74&hms_devid=2749&prioritypopid=74&online=1619363743&vqe=3
 北京IPTV淘BABY,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 北京IPTV淘剧场,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 北京IPTV淘娱乐,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
