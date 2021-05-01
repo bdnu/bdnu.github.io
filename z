@@ -118,6 +118,9 @@ CCTV17,http://223.110.241.150:6610/gitv/live1/G_CCTV-17-HD/G_CCTV-17-HD
 ◆卫视◆,#genre#
 东南卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
 东南卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226406/1.m3u8
+海峡卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
+海峡卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
+海峡卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 东方卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8
 东方卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226505/1.m3u8
 东方卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226237/1.m3u8
@@ -459,7 +462,7 @@ CETV-3,http://223.110.241.150:6610/gitv/live1/G_CETV-3/G_CETV-3/
 CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 
 ◆地方◆,#genre#
-潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8#http://dslive.grtn.cn/czzh/sd/live.m3u8
+潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8
 潮州公共,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd.m3u8
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8#http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
