@@ -461,8 +461,8 @@ CETV-3,http://223.110.241.150:6610/gitv/live1/G_CETV-3/G_CETV-3/
 CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 
 ◆地方◆,#genre#
-潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8
-潮州公共,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd.m3u8
+潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.flv
+潮州公共,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd.m3u8#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czggpd.flv
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8#http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
 汕头一套,http://ye23.win/iptv/sttv.php?id=st1
@@ -538,7 +538,7 @@ B站邵氏,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/666868/live_97065
 斗鱼电影9,http://www.gz6hs.com/tv/douyu.php?id=323876
 斗鱼动漫,http://www.gz6hs.com/tv/douyu.php?id=206858
 香港剧集,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
-美腿毛的哥哥,http://www.gz6hs.com/tv/douyu.php?id=9720447
+长腿毛的哥哥,http://www.gz6hs.com/tv/douyu.php?id=9720447
 七龙珠,http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.flv
 头文字D,http://txtest-xp2p.p2p.huya.com/src/1423782053-1423782053-6115097354266738688-2847687562-10057-A-0-1.flv
 四驱兄弟,http://cdn.chxjon.cn/iptv/QQ2383132354/bilibili.php?id=10544270
