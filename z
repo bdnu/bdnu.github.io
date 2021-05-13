@@ -483,6 +483,7 @@ CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 广东体育,http://116.199.5.51:8114/00000000/index.m3u8?Fsv_ctype=LIVES&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_chan_hls_se_idx=8
 广东体育,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_ctype=LIVES&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_chan_hls_se_idx=8
 福建体育,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
+福建体育,http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221227078/index.m3u8
 北京IPTV淘BABY,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 北京IPTV淘剧场,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 北京IPTV淘娱乐,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
