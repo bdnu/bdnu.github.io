@@ -522,6 +522,13 @@ CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 金鹰卡通,http://183.207.255.188/live/program/live/jykt/1300000/mnf.m3u8
 嘉佳卡通,http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8
+纪实人文,http://39.135.230.71/ott.fj.chinamobile.com/PLTV/88888888/224/3221227102/index.m3u8
+纪实人文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
+冬奥纪实,http://39.135.230.74/ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
+金鹰纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8
+快乐垂钓,http://39.135.230.69/ott.fj.chinamobile.com/PLTV/88888888/224/3221227028/index.m3u8
+
+
 
 ◆电影◆,#genre#
 斗鱼邵氏,http://www.gz6hs.com/tv/douyu.php?id=4246519#http://106.53.212.251/iptv/douyu.php?id=4246519#http://blanki.cf/api/douyu.php?id=4246519#http://teyond.chxjon.cn/iptv/微信公众号:太阳资讯/douyu.php?id=4246519#http://tx2play1.douyucdn.cn/live/4246519r6IV8SY7R_4000.m3u8
@@ -749,9 +756,13 @@ KPOP男团,http://www.gz6hs.com/tv/douyu.php?id=455891
 凤凰中文,http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8#http://117.148.187.114/PLTV/88888888/224/3221226368/index.m3u8#http://112.17.40.132/PLTV/88888888/224/3221226368/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw#http://221.179.217.9/PLTV/88888888/224/3221225948/1.m3u8#http://220.201.218.82:65530/live/fhzw/index.m3u8#http://221.179.217.69/PLTV/88888888/224/3221225942/1.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://221.179.217.75/PLTV/88888888/224/3221225942/1.m3u8#http://111.13.42.9/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.50.243.9/PLTV/88888888/224/3221225900/1.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://223.110.245.137/PLTV/3/224/3221226922/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://hjc757.f3322.net:5555/fh.php?id=zw
 凤凰香港,http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8#http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8#http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8#http://hjc757.f3322.net:5555/fh.php?id=hk
 凤凰电影,rtmp://58.200.131.3:1935/livetv/fhdy#rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-凤凰资讯,http://teyond.chxjon.cn/iptv/微信公众号:太阳资讯/gzyx.php?id=fhzxhd
-凤凰中文,http://teyond.chxjon.cn/iptv/微信公众号:太阳资讯/gzyx.php?id=fhwshd
-凤凰香港,http://teyond.chxjon.cn/iptv/微信公众号:太阳资讯/xgfh.php?id=3
+凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1
+凤凰中文,http://stream.guihet.com/t/ifeng2.php?id=2
+凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3
+凤凰资讯,https://hnan.cloud/AQtQXg==.m3u8
+凤凰中文,https://hnan.cloud/AQtUXg==.m3u8
+凤凰香港,https://hnan.cloud/BSJEXg==.m3u8
+香港卫视,https://hnan.cloud/BSJDUFpBXA0=.m3u8
 凤凰资讯,http://223.110.241.150:6610/cntv/live1/HD-2500k-1080P-fhzixun/HD-2500k-1080P-fhzixun
 凤凰中文,http://223.110.241.150:6610/cntv/live1/HD-2500k-1080P-fhchinese/HD-2500k-1080P-fhchinese
 
@@ -781,16 +792,8 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8#http://teslagram.com/live/channe
 无线新闻(代),http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 凤凰资讯(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=1
 凤凰中文(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
+凤凰香港(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=3
 
-
-TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
-凤凰香港台,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
-凤凰中文台,http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8
-凤凰资讯台,http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
-ViuTV,http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
-Viu1TV,http://93.190.139.36:8278/streams/d/viu1_twn/playlist.m3u8
-有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
-RTHK31,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
 
 
 ◆浙江ip◆,#genre#
