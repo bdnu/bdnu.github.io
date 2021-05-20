@@ -18,8 +18,8 @@ CCTV9,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
 CCTV10,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8
 CCTV11,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
 CCTV12,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
-CCTV13,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil
 CCTV13,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
+CCTV13,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil
 CCTV14,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8
 CCTV15,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
 CCTV17,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8
@@ -550,7 +550,6 @@ B站邵氏,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/666868/live_97065
 长腿毛的哥哥,http://www.gz6hs.com/tv/douyu.php?id=9720447
 七龙珠（改）,http://kuqq.tk/00/huya.php?id=11601966
 《龙珠超》,http://kuqq.tk/00/huya.php?id=10279885
-《七龙珠Z》,http://kuqq.tk/00/huya.php?id=21634151
 头文字D,http://kuqq.tk/00/huya.php?id=11352889
 四驱兄弟,http://blanki.cf/api/bili.php?id=10544270
 许氏三杰,http://kuqq.tk/00/huya.php?id=11602033
@@ -714,7 +713,7 @@ NewTV精品体育,http://223.110.241.150:6610/cntv/live1/jtiyu/jtiyu
 
 
 ◆女团◆,#genre#
-女团热舞,http://blanki.cf/api/douyu.php?id=9593601#http://106.53.212.251/iptv/douyu.php?id=9593601#http://www.gz6hs.com/tv/douyu.php?id=9593601
+女团热舞,http://www.gz6hs.com/tv/douyu.php?id=9593601
 新火车,http://www.gz6hs.com/tv/douyu.php?id=2125718
 魅力、女团,http://www.gz6hs.com/tv/douyu.php?id=9229756
 动动哥哥,http://www.gz6hs.com/tv/douyu.php?id=806911
