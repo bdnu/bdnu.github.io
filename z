@@ -5,6 +5,7 @@
 CCTV1,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
 CCTV1,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
 CCTV2,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
+CCTV2,rtsp://183.252.166.199/PLTV/88888888/224/3221226655/40417429.smil
 CCTV2,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
 CCTV3,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
 CCTV4,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8
@@ -17,11 +18,13 @@ CCTV8,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
 CCTV9,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
 CCTV10,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8
 CCTV11,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
+CCTV11,rtsp://183.252.176.54:554/PLTV/88888888/224/3221225996/10000100000000060000000002296743_0.smil
 CCTV12,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
 CCTV13,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 CCTV13,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil
 CCTV14,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8
 CCTV15,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
+CCTV15,rtsp://183.252.166.199/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil
 CCTV17,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8
 CCTV1,http://39.135.33.12/PLTV/77777777/224/3221226674/index.m3u8
 CCTV2,http://39.135.33.12/PLTV/77777777/224/3221226642/index.m3u8
@@ -460,6 +463,22 @@ CETV-1,http://223.110.241.150:6610/gitv/live1/G_CETV-1/G_CETV-1/
 CETV-2,http://223.110.241.150:6610/gitv/live1/G_CETV-2/G_CETV-2/
 CETV-3,http://223.110.241.150:6610/gitv/live1/G_CETV-3/G_CETV-3/
 CETV-4,http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
+东南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
+东方卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226041/10000100000000060000000002296882_0.smil
+北京卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226092/10000100000000060000000002296930_0.smil
+吉林卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226792/48616745.smil
+山东卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226090/10000100000000060000000002296928_0.smil
+广东卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226089/10000100000000060000000002296927_0.smil
+江苏卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226038/10000100000000060000000002296879_0.smil
+河南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226076/10000100000000060000000002296917_0.smil
+浙江卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226040/10000100000000060000000002296881_0.smil
+海南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
+海峡卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
+湖北卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226091/10000100000000060000000002296929_0.smil
+湖南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226082/10000100000000060000000002296924_0.smil
+贵州卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil
+黑龙江卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226087/10000100000000060000000002296926_0.smil
+
 
 ◆地方◆,#genre#
 潮州综合,rtmp://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8#http://pili-live-rtmp.czbtv.sobeylive.com/czbtv2019/czzhpd.flv
@@ -553,7 +572,7 @@ B站邵氏,https://cn-gdst-cmcc-live-02.bilivideo.com/live-bvc/666868/live_97065
 头文字D,http://kuqq.tk/00/huya.php?id=11352889
 四驱兄弟,http://blanki.cf/api/bili.php?id=10544270
 许氏三杰,http://kuqq.tk/00/huya.php?id=11602033
-外来媳妇本地郎,http://epg.112114.xyz/bili/995289#http://blanki.cf/api/bili.php?id=995289
+外来媳妇本地郎,http://blanki.cf/api/bili.php?id=995289#http://epg.112114.xyz/bili/995289
 海爷-2,https://cn-gdst-cmcc-live-01.bilivideo.com/live-bvc/211012/live_52370715_1734265.m3u8
 海爷-3,https://cn-gdst-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_2538218.m3u8
 海爷-4,https://cn-gdst-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
@@ -723,6 +742,7 @@ NewTV精品体育,http://223.110.241.150:6610/cntv/live1/jtiyu/jtiyu
 动动哥哥,http://www.gz6hs.com/tv/douyu.php?id=806911
 咖啡猫咪,http://www.gz6hs.com/tv/douyu.php?id=6499860
 中午怪蜀黎,http://www.gz6hs.com/tv/douyu.php?id=427397
+爱丝寂寞人儿,http://www.gz6hs.com/tv/douyu.php?id=8248741
 KPOP男团,http://www.gz6hs.com/tv/douyu.php?id=455891
 垨護笙246,http://www.gz6hs.com/tv/douyu.php?id=9719586
 巨侠客栈,http://www.gz6hs.com/tv/douyu.php?id=9509683
@@ -732,6 +752,8 @@ KPOP男团,http://www.gz6hs.com/tv/douyu.php?id=455891
 777帕青锅,http://www.gz6hs.com/tv/douyu.php?id=222286
 性感女团我最爱,http://www.gz6hs.com/tv/douyu.php?id=5526740
 2615381直播,http://www.gz6hs.com/tv/douyu.php?id=8921085
+小小大瓦斯,http://www.gz6hs.com/tv/douyu.php?id=6146690
+花大贝,http://www.gz6hs.com/tv/douyu.php?id=8017332
 美女妹妹友友,http://www.gz6hs.com/tv/douyu.php?id=225232
 咦那是什么,http://www.gz6hs.com/tv/douyu.php?id=231464
 愿你幸福初恋,http://www.gz6hs.com/tv/douyu.php?id=9441769
@@ -747,6 +769,10 @@ KPOP男团,http://www.gz6hs.com/tv/douyu.php?id=455891
 北京影帝的分身,http://www.gz6hs.com/tv/douyu.php?id=9805480
 美人而已（颜值）,http://www.gz6hs.com/tv/douyu.php?id=5138817
 百潮生活馆,http://www.gz6hs.com/tv/douyu.php?id=6148650
+4KPG爱饭拍,http://www.gz6hs.com/tv/douyu.php?id=9744054
+朴初珑,http://www.gz6hs.com/tv/douyu.php?id=123351
+朴素妍,http://www.gz6hs.com/tv/douyu.php?id=603070
+7师傅,http://www.gz6hs.com/tv/douyu.php?id=17732
 虎牙KPOP女团,http://kuqq.tk/00/huya.php?id=24271947
 杀马特死神,http://kuqq.tk/00/huya.php?id=11352875
 十二酱,http://kuqq.tk/00/huya.php?id=19197508
