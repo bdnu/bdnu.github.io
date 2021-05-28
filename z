@@ -729,8 +729,8 @@ KPOP男团,http://www.gz6hs.com/tv/douyu.php?id=455891
 
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-無線新聞台(官网),http://ohyeah.gear.host/hktvb.php?id=1
-無線財經台(官网),http://ohyeah.gear.host/hktvb.php?id=2
+無線新聞台,http://ohyeah.gear.host/hktvb.php?id=1
+無線財經台,http://ohyeah.gear.host/hktvb.php?id=2
 無線直播台,http://ohyeah.gear.host/hktvb.php?id=3
 翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php
 无线新闻 1080P,https://cdn.hkdtmb.com/hls/83/index.m3u8#http://61.238.6.49:8001/bysid/83
@@ -748,7 +748,9 @@ RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8#http://teslagram.com/live/channe
 香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-无线新闻(代),http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+無線新闻(代),http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+無線財經(代),http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+無線直播(代),http://www.chahaoquan.com/wz/epg/tvb.php?id=3
 凤凰资讯(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=1
 凤凰中文(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 凤凰香港(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=3
